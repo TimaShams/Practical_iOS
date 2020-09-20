@@ -14,6 +14,7 @@
 		C33665C52517E1E40096085F /* MyFirstApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C33665C32517E1E40096085F /* MyFirstApp.xcdatamodeld */; };
 		C33665C72517E1E50096085F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C33665C62517E1E50096085F /* Assets.xcassets */; };
 		C33665CA2517E1E50096085F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C33665C82517E1E50096085F /* LaunchScreen.storyboard */; };
+		C33665D22517FBBB0096085F /* lab9_q6_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33665D12517FBBB0096085F /* lab9_q6_VC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C33665C62517E1E50096085F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C33665C92517E1E50096085F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C33665CB2517E1E50096085F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C33665D12517FBBB0096085F /* lab9_q6_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab9_q6_VC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C33665BA2517E1E40096085F /* AppDelegate.swift */,
 				C33665BC2517E1E40096085F /* SceneDelegate.swift */,
 				C33665BE2517E1E40096085F /* ViewController.swift */,
+				C33665D12517FBBB0096085F /* lab9_q6_VC.swift */,
 				C33665C02517E1E40096085F /* Main.storyboard */,
 				C33665C62517E1E50096085F /* Assets.xcassets */,
 				C33665C82517E1E50096085F /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				C33665BF2517E1E40096085F /* ViewController.swift in Sources */,
 				C33665BB2517E1E40096085F /* AppDelegate.swift in Sources */,
 				C33665C52517E1E40096085F /* MyFirstApp.xcdatamodeld in Sources */,
+				C33665D22517FBBB0096085F /* lab9_q6_VC.swift in Sources */,
 				C33665BD2517E1E40096085F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
